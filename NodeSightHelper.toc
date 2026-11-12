@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: NodeSightZygorHide
+## Notes: Temporarily hides Zygor minimap navigation markers during NodeSight's hidden scanning phase.
+## Dependencies: NodeSight, ZygorGuidesViewerForever
+
+NodeSightZygorHide.lua
